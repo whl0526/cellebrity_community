@@ -145,5 +145,3 @@ https://user-images.githubusercontent.com/67422547/124547689-7ae8b180-de67-11eb-
 | **title**로 **apply**  **찾고  해당** **apply**의 동영상code수정 | PUT      | http://3.36.228.255:8088/jpa/apply/modify            | BODY:    {      "title": "찾아야할 apply의 제목",      "code": "수정할 동영상 코드"    } |                                                              |
 
 
-
-**이 외에도 PANDA application에 필요한 다양한 api를 제공하고있습니다.**
